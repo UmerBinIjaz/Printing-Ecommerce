@@ -34,6 +34,9 @@ Windows:
 ```bash
 git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 ```
+## Admin Credentials
+Email Address: admin@gmail.com
+Password: admin
 
 ## Contact
 
